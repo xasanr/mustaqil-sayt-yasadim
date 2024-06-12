@@ -1,0 +1,58 @@
+body,h1,h2,h3,ul,p{
+    margin: 0;
+    padding: 0;
+}
+
+.ccc{
+    background-color: rgb(143, 196, 218);
+    color: black;
+    padding: 30px;
+    border: 3px solid black;
+    font-family: serif;
+    text-align: center;
+    
+    
+    
+}
+
+.zzz{
+    padding: 20px;
+    color: red;
+}
+
+.lll{
+    width: 55%;
+    float: right;
+    color: red;
+}
+
+
+.mm{
+    background-image: url(photo_2024-06-12_19-49-55.jpg);
+    width: 16%;
+    padding: 125px;
+    
+    
+}
+
+
+
+.uuu{
+    background-color: aqua;
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+    color: red;
+    
+}
+
+
+.jjj{
+    width: 30%;
+    float: right;
+    
+}
+.jjj :hover{
+    color: red;
+     
+}
